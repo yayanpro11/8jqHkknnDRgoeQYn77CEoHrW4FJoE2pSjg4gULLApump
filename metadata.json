@@ -1,0 +1,24 @@
+{10 items
+"key":int4
+"updateAuthority":string"TSLvdd1pWpHVjahSpsvCXUbgwsL3JAcvokwaKt1eokM"
+"mint":string"8jqHkknnDRgoeQYn77CEoHrW4FJoE2pSjg4gULLApump"
+"data":{5 items
+"name":string"DOGKING"
+"symbol":string"DOGKING"
+"uri":string"https://ipfs.io/ipfs/bafkreiazmtjb6ywcjm45lxm53unfkpgebetaqnzot66maa7eqo5gdcqc3m"
+"sellerFeeBasisPoints":int0
+"creators":[1 item
+0:{3 items
+"address":string"GqC7hwaqVDc6oVhJubYoxzaGq47g3FpchQYGupFGrAgT"
+"verified":int0
+"share":int100
+}
+]
+}
+"primarySaleHappened":int0
+"isMutable":int0
+"editionNonce":int255
+"tokenStandard":int2
+"collection":undefined
+"uses":undefined
+}
