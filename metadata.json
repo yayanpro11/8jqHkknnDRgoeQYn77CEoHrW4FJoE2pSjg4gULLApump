@@ -1,15 +1,32 @@
 {
-  "chainId": 101,
-  "address": "8jqHkknnDRgoeQYn77CEoHrW4FJoE2pSjg4gULLApump",
+  "name": "DOGKING",
   "symbol": "DOGKING",
-  "name": "Dogking",
-  "decimals": 9,
-  "logoURI": "https://raw.githubusercontent.com/USERNAME/REPO/main/assets/mainnet/8jqHkknn.../logo.png",
-  "tags": ["meme", "community"],
-  "extensions": {
-    "website": "https://dogking.com",
-    "twitter": "https://twitter.com/dogking",
-    "telegram": "https://t.me/dogking",
-    "description": "DOGKING is a meme token built on Solana."
+  "description": "DOGKING is a meme token built on Solana blockchain, powered by the community.",
+  "seller_fee_basis_points": 0,
+  "image": "https://github.com/yayanpro11/8jqHkknnDRgoeQYn77CEoHrW4FJoE2pSjg4gULLApump/blob/main/logo.png",
+  "external_url": "https://dogking.cloud",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Meme"
+    },
+    {
+      "trait_type": "Blockchain",
+      "value": "Solana"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/yayanpro11/8jqHkknnDRgoeQYn77CEoHrW4FJoE2pSjg4gULLApump/blob/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "GqC7hwaqVDc6oVhJubYoxzaGq47g3FpchQYGupFGrAgT",
+        "share": 100
+      }
+    ]
   }
 }
