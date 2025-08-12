@@ -3,7 +3,7 @@
   "symbol": "DOGKING",
   "description": "DOGKING is a meme token built on Solana blockchain, powered by the community.",
   "seller_fee_basis_points": 0,
-  "image": "https://github.com/yayanpro11/8jqHkknnDRgoeQYn77CEoHrW4FJoE2pSjg4gULLApump/blob/main/logo.png",
+  "image": "https://raw.githubusercontent.com/yayanpro11/8jqHkknnDRgoeQYn77CEoHrW4FJoE2pSjg4gULLApump/main/logo.png",
   "external_url": "https://dogking.cloud",
   "attributes": [
     {
@@ -18,7 +18,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://github.com/yayanpro11/8jqHkknnDRgoeQYn77CEoHrW4FJoE2pSjg4gULLApump/blob/main/logo.png",
+        "uri": "https://raw.githubusercontent.com/yayanpro11/8jqHkknnDRgoeQYn77CEoHrW4FJoE2pSjg4gULLApump/main/logo.png",
         "type": "image/png"
       }
     ],
